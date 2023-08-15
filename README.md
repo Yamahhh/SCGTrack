@@ -7,7 +7,8 @@
 | MOT17      | 61.8 | 78.3 | 60.2 | 74.5 | -   | 280 |
 
 ### Visualization results on MOT challenge test set
-<img src="assets/2d-new_1.jpg" width="400"/>   <img src="assets/3d_1_final.jpg" width="400"/>
+<img src="assets/2d-new_1.jpg" width="400"/>   
+<img src="assets/3d_1_final.jpg" width="400"/>
 <img src="assets/result-new-2.jpg" width="800"/>  
 
 ## Installation
